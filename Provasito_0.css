@@ -466,8 +466,8 @@ img.libro {
 
  
     #biblioteca_button {
-     float: center;
         position: relative;
+        float: center;
         margin: 0px 0px 35px 30%;
         color: #011627;
     }
