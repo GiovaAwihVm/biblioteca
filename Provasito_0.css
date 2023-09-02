@@ -312,8 +312,6 @@ img.libro {
  
     #home {
         font-size: 18px;
-          margin-left: -10px;
-
     }
  
     /* #icona_biblioteca {
@@ -322,9 +320,7 @@ img.libro {
         margin-left: -13px; 
     } */
     #biblioteca {
-        font-size: 18px;
-          margin-left: -20px;
- 
+        font-size: 18px; 
     }
  
     /* #icona_chi-siamo {
@@ -334,8 +330,7 @@ img.libro {
         color:#fdfffc;
     } */
     #chi-siamo {
-        font-size: 13px;
-       margin-left: -12px;
+        font-size: 14px;
     }
     /*----------------------------*/
 
