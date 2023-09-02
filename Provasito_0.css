@@ -342,7 +342,7 @@ img.libro {
 
  
     div#all {
-        padding: 30px 30px;
+        padding: 15px 30px 30px 30px;
         background-color: #FDFFFC;
     }
     div#all div {
@@ -456,6 +456,7 @@ img.libro {
     #textbiblioteca{
         text-align: center;
         position: relative;
+        float: center;
         margin-top: -215px;
         margin-bottom: 60px;
         font-size: 27px;
