@@ -342,7 +342,7 @@ img.libro {
 
  
     div#all {
-        padding: 15px 30px 30px 30px;
+        padding: 30px 30px;
         background-color: #FDFFFC;
     }
     div#all div {
@@ -353,8 +353,7 @@ img.libro {
         text-align: center;
         font-size: 18px;
         font-weight: 700;
-        padding: 16px;
-        padding-bottom: 0px;
+        padding: 0px 16px;
     }
  
     .risposta {
