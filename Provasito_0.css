@@ -425,6 +425,7 @@ img.libro {
     }
  
     #biblioteca {
+      text-align: center;
         background-color: #011627;
         padding-bottom: 80px;
      padding-left: 8px;
